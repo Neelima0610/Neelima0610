@@ -1,38 +1,38 @@
-# Hi, I'm Neelima 👋
+# 👋 Hi, I'm Neelima
 
 ### Senior Software Engineer | .NET | C# | Azure | Angular | Gen AI Engineer | Product Builder
 
-I'm a software engineer passionate about building **real-world software products, developer tools, cloud applications, and healthcare interoperability solutions**.
+I’m a software engineer passionate about building **real-world software products, developer tools, cloud applications, and healthcare interoperability solutions**.
 
-Alongside my software engineering career, I'm building **[IdeaVault Labs](https://www.ideavaultlabs.com)** — an independent product platform where I turn ideas into working software, experiment with new technologies, and publish developer-focused products.
+I also build and launch independent software products through **IdeaVault Labs**, where I turn ideas into working applications, developer tools, extensions, and digital products.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Software Engineer with experience in **C#, .NET, Azure, Angular, SQL and modern web technologies**
-- ☁️ Interested in **Azure Cloud, DevOps, distributed systems and application observability**
-- 🏥 Exploring **Healthcare Interoperability, HL7 and FHIR**
-- 🤖 Experimenting with **AI-assisted and Agentic Software Development**
-- 🛠️ Building and publishing **developer tools, VS Code extensions, JetBrains plugins and web applications**
+- 💻 Software Engineer specializing in **C#, .NET, Azure and modern web technologies**
+- ☁️ Interested in **Azure Cloud, DevOps, observability and cloud-native applications**
+- 🏥 Exploring **HL7, FHIR and healthcare interoperability**
+- 🤖 Exploring **AI-assisted and Agentic AI software development**
+- 🛠️ Building **developer productivity tools and extensions**
 - 🌐 Founder & Software Developer at **IdeaVault Labs**
-- 📦 Building and launching independent digital products
-- 🎯 Passionate about turning software ideas into **usable, deployable products**
+- 📦 Building, deploying and commercializing independent software products
+- 🎯 I enjoy taking projects from **idea → development → deployment → product**
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Technology Stack
 
-### Backend & Programming
+### Backend
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Cloud & DevOps
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Frontend
 
@@ -46,163 +46,77 @@ Alongside my software engineering career, I'm building **[IdeaVault Labs](https:
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
-### Healthcare Interoperability
+### Healthcare
 
-![FHIR](https://img.shields.io/badge/FHIR-Healthcare%20Interoperability-4CAF50?style=for-the-badge)
-![HL7](https://img.shields.io/badge/HL7-Healthcare%20Data-1976D2?style=for-the-badge)
+![FHIR](https://img.shields.io/badge/FHIR-Healthcare-4CAF50?style=for-the-badge)
+![HL7](https://img.shields.io/badge/HL7-Interoperability-1976D2?style=for-the-badge)
 
-### AI & Product Development
+### AI
 
 - AI-assisted software development
 - Prompt Engineering
-- Agentic AI experimentation
+- Agentic AI
+- AI-powered applications
 - Rapid prototyping
-- Developer productivity tools
-- SaaS/product development
+- Developer automation
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 ## 🏥 FHIR Visualizer
 
-A healthcare interoperability application exploring FHIR resources and HL7/FHIR workflows.
+Healthcare interoperability application exploring **FHIR resources, HL7 messages and FHIR-based workflows**.
 
 ### Features
 
 - FHIR Resource Visualization
 - FHIR JSON exploration
-- FHIR validation concepts
+- FHIR validation
 - HL7 message processing
-- JSON/XML conversion
+- JSON → XML conversion
+- HL7 → FHIR concepts
 - Healthcare interoperability workflows
 
-**Technologies:** Angular, TypeScript, FHIR, HL7
+**Tech:** Angular • TypeScript • FHIR • HL7
 
 ---
 
 ## 👩‍💻 WhoDidIt – Git Line History
 
-A Visual Studio Code extension designed to help developers understand the Git history behind individual lines of code.
+A Visual Studio Code extension that helps developers understand the **Git history behind individual lines of code**.
 
-### What it helps with
+### Features
 
-- Identify who changed a line
-- Understand when the change happened
-- Investigate Git history
-- Reduce context switching during debugging
-- Support code investigation and maintenance
+- 🔎 Identify who changed a line
+- 📅 Understand when changes happened
+- 🌳 Explore Git history
+- 🐛 Support debugging and investigation
+- ⚡ Reduce context switching
 
-**Technologies:** TypeScript, JavaScript, Git, VS Code Extension API
+**Tech:** TypeScript • JavaScript • Git • VS Code Extension API
 
 ---
 
 ## 📁 FolderFlow
 
-A productivity tool focused on making file and folder organization simpler and more efficient.
+A productivity tool designed to make **file and folder organization simpler and more efficient**.
 
-The project was taken through the complete product lifecycle:
-
-**Idea → Design → Development → Testing → Packaging → Deployment → Commercial Launch**
-
----
-
-## ☁️ Azure Developer Tools
-
-I'm also building tools around the Azure developer ecosystem, including experiments and products focused on:
-
-- Azure application troubleshooting
-- Log exploration
-- Developer productivity
-- Observability
-- Debugging workflows
-- Git investigation
-
----
-
-# 🧪 IdeaVault Labs
-
-### Building software products from ideas.
-
-**IdeaVault Labs** is my independent software product initiative.
-
-🌐 **[Visit IdeaVault Labs](https://www.ideavaultlabs.com)**
-
-The goal is simple:
-
-> **Take an idea → Build it → Deploy it → Learn from it → Turn it into a product.**
-
-I'm using IdeaVault Labs to experiment with:
-
-- Developer productivity tools
-- Azure utilities
-- Healthcare interoperability
-- AI-powered applications
-- Web applications
-- VS Code extensions
-- JetBrains plugins
-- HTML5 templates
-- Digital products
-- SaaS concepts
-
----
-
-# 🛠️ What I'm Currently Building
-
-### 🔹 Healthcare Interoperability
-
-Working with:
-
-- FHIR
-- HL7
-- FHIR Resources
-- FHIR validation
-- FHIR visualization
-- HL7 → FHIR concepts
-- JSON → XML conversion
-
-### 🔹 Developer Productivity
-
-Building tools that help developers:
-
-- Debug applications
-- Investigate logs
-- Understand Git history
-- Work with Azure
-- Improve development workflows
-
-### 🔹 AI & Agentic Development
-
-Exploring how AI agents can assist with:
-
-- Software development
-- Code generation
-- Product prototyping
-- Automation
-- Testing
-- Developer workflows
-
----
-
-# 📈 My Development Philosophy
-
-I believe the best way to learn technology is to **build something real with it**.
-
-Instead of only learning frameworks and technologies theoretically, I try to:
+Built through the complete product lifecycle:
 
 ```text
-Learn
-  ↓
-Build
-  ↓
-Deploy
-  ↓
-Test
-  ↓
-Improve
-  ↓
-Publish
-  ↓
-Learn Again
+Idea
+ ↓
+Design
+ ↓
+Development
+ ↓
+Testing
+ ↓
+Deployment
+ ↓
+Packaging
+ ↓
+Product Launch
