@@ -125,43 +125,43 @@ Every project is an opportunity to learn something new about:
 
 Technology + Architecture + UX + Deployment + Product Development
 
-🎯 Areas I'm Interested In
-Software Architecture
-.NET & C#
-Azure Cloud
-Cloud-native applications
-Angular & React
-Next.js
-TypeScript
-DevOps
-Git & GitHub
-Observability
-Healthcare Interoperability
-HL7 & FHIR
-AI & Agentic AI
-Developer Tools
-SaaS
-Product Development
-📊 GitHub Activity
+## 🎯 Areas I'm Interested In
+- Software Architecture
+- .NET & C#
+- Azure Cloud
+- Cloud-native applications
+- Angular & React
+- Next.js
+- TypeScript
+- DevOps
+- Git & GitHub
+- Observability
+- Healthcare Interoperability
+- HL7 & FHIR
+- AI & Agentic AI
+- Developer Tools
+- SaaS
+- Product Development
+
+## 📊 GitHub Activity
 
 I'm continuously using GitHub to:
 
-Build open-source projects
-Experiment with new technologies
-Maintain developer tools
-Publish reusable code
-Document technical experiments
-Build portfolio projects
-🌐 Find Me Online
-🚀 Portfolio
+- Build open-source projects
+- Experiment with new technologies
+- Maintain developer tools
+- Publish reusable code
+- Document technical experiments
+- Build portfolio projects
+- 🌐 Find Me Online
+- 🚀 Portfolio
 
-IdeaVault Labs
+## IdeaVault Labs
+[IdeaVault Labs](https://www.ideavaultlabs.com/)
 
-💻 GitHub
+## 💼 LinkedIn
 
-GitHub Profile
-
-💼 LinkedIn
+[Neelima on LinkedIn](https://www.linkedin.com/in/neelima-rambabu-485453130/)
 
 Connect with me on LinkedIn
 
