@@ -120,7 +120,7 @@ Deployment
 Packaging
  ↓
 Product Launch
-
+```
 Every project is an opportunity to learn something new about:
 
 Technology + Architecture + UX + Deployment + Product Development
@@ -174,14 +174,3 @@ Cloud • .NET • Azure • Healthcare • AI • Developer Tools • SaaS
 ⭐ If you find any of my projects useful, consider giving them a star!
 
 Thanks for visiting my profile! 🚀
-
-
-### One important recommendation
-
-For your profile, I would **not** make the README look like a generic “developer skills list.” Your strongest differentiator is that you're **actually building and launching products**, not just learning technologies.
-
-The positioning I'd aim for is:
-
-> **Software Engineer who builds and ships real-world products across .NET, Azure, healthcare interoperability, developer tooling and AI.**
-
-That complements the **IdeaVault Labs** experience you're adding to LinkedIn and makes your GitHub profile tell the same career story.
