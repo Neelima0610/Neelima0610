@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neelima
 
-### Senior Software Engineer | .NET | C# | Azure | Angular | Gen AI Engineer | Product Builder
+### Software Engineer | .NET | C# | Azure | Angular | Gen AI Engineer | Product Builder
 
 I’m a software engineer passionate about building **real-world software products, developer tools, cloud applications, and healthcare interoperability solutions**.
 
